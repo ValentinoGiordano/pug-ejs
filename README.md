@@ -1,0 +1,3 @@
+# MOTOR MÁS EFICIENTE SEGÚN YO
+
+#### Prefiero el motor de ejs, ya que me parece más dinámico y sencillo, me parece sencillo por mi experiencia con JavaScript, desarollo web. react y lo mucho que interactué con html y css, el que menos me gustó fue el pug, ya que es bastante diferente a todos los demas, con respecto al handlebars, no me gustó que haya que setear el engine, de no ser por eso quizas sea mi favorito.
